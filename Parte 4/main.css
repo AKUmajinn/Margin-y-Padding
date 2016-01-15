@@ -1,0 +1,12 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+div{
+	border:2px solid #e63e00;
+	height: 260px;
+	width: 250px;
+	font-family: Verdana;
+	font-size: 14px;
+}
